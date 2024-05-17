@@ -1,0 +1,6 @@
+package src.main.java.Cenario09;
+
+
+public class ClienteEmpresaController {
+    // Implementar métodos para operações relacionadas a cliente empresa
+}
